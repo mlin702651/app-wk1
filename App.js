@@ -6,7 +6,6 @@ export default function App() {
     <View style={styles.container}>
       <Text>110719038</Text>
       <Text>林巧華</Text>
-      <Text>test</Text>
     </View>
   );
 }
